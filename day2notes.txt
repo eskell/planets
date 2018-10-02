@@ -1,0 +1,13 @@
+Git commands - git command
+	• config = settings
+	• init = create repository
+	• status = check status
+	• add = queue up files for commit
+	• commit = add file to repository
+	• log = see history of commits 
+	• diff HEAD~# = difference between files
+	• branch = create branch
+	• checkout = show specific version of repository; go to a 
+different point in history
+	• branch -a = show all branches
+
