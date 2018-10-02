@@ -1,0 +1,44 @@
+    1  setx HOME %USERPROFILE%
+    2  exit
+    3  git
+    4  git config
+    5  git config --global user.name "Liz Kellogg"
+    6  git config user.email
+    7  git config core.editor
+    8  git config --global core.editor "nano -w"
+    9  git config core.editor
+   10  git config --global core.editor "nano"
+   11  git config core.editor
+   12  git config --list
+   13  git config --global core.editor "nano -w"
+   14  git config --list
+   15  pwd
+   16  cd Desktop/
+   17  cd data-shell
+   18  git init planets
+   19  ls -a planets/
+   20  cd planets/
+   21  git status 
+   22  nano notes.txt
+   23  ls
+   24  git add notes.txt
+   25  git status
+   26  git commit 
+   27  git status
+   28  nano notes.txt 
+   29  nano venus.txt
+   30  git status
+   31  git add
+   32  git add .
+   33  git status
+   34  git commit .
+   35  git status
+   36  git log
+   37  pwd
+   38  history > history.txt
+   39  cat history.txt 
+   40  git log
+   41  git log -1
+   42  mkdir moons
+   43  ls
+   44  history > history.txt
